@@ -1,0 +1,22 @@
+UPDATE `tm_usuario` SET `contrasena` = 'c29wb3J0ZTI=',  
+
+contraseña soporte2
+
+
+<!-- producto import  -->
+
+ALTER TABLE `tm_producto` ADD `cod_pro` VARCHAR(45) NOT NULL AFTER `estado`;
+<!-- CONTROL STOCK PRODUC.PRESENTACION -->
+
+ALTER TABLE `tm_producto_pres` ADD `crt_stock` INT(1) NOT NULL DEFAULT '0' AFTER `stock_min`;
+
+
+<!--  -->
+
+
+<!--  -->
+
+
+<!--  -->
+
+<!--  -->

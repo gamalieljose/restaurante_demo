@@ -1,0 +1,8 @@
+instalamos con normalidad  restonuevo.sql 
+
+1.- Ejecutamos SQL.txt
+2.- v_stock_pedido.sql
+3.- v_productos.sql
+4.- v_insprod.sql
+5.- eliminamos de la zona de procedimientos usp_configProductoPres
+6.- ejecutamos usp_configProductoPres.sql 
